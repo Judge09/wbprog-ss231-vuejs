@@ -1,6 +1,6 @@
   const app2 = Vue.createApp({
    data() {
-    return {
+    return { 
       manyFoods: [
         {name: 'Burrito', url: 'https://www.w3schools.com/vue/img_burrito.svg'},
         {name: 'Salad', url: 'https://www.w3schools.com/vue/img_salad.svg'},
